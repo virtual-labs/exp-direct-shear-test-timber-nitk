@@ -1,0 +1,84 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the IS code for wood?",
+      "answers": {
+        "a": "IS 1708:1986",
+        "b": "IS 2654:1977",
+        "c": "IS 5242:1979",
+        "d": "IS 2655:1964"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "For wood specimen what is the area to be considered?",
+      "answers": {
+        "a": "Width X thickness of wood",
+        "b": "Width X thickness of failure plane of wood",
+        "c": "Diameter of wood",
+        "d": "Width X length of wood"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "For which material the failure load is maximum?",
+      "answers": {
+        "a": "Wood",
+        "b": "Mild-steel rod",
+        "c": "Mild-steel plate"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "For double shear of timber specimen",
+      "answers": {
+        "a": "Area of c/s is multiplied by 2",
+        "b": "Failure load is multiplied by 2",
+        "c": "Area of c/s is divided by 2",
+        "d": "Shear strength is multiplied by 2"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "A shear stress across a plane, is always accompanied by a balancing shear stress across the plane and normal to it. (say True or False)",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
